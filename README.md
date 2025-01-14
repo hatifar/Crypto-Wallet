@@ -60,5 +60,3 @@ This project is a **GUI-based Cryptocurrency Wallet** developed using **RAD Stud
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
