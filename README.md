@@ -52,7 +52,7 @@ This project is a **GUI-based Cryptocurrency Wallet** developed using **RAD Stud
 ## Installation
 1. Clone the repository:
    ```bash
-   https://github.com/HamzaHashim12/Crypto-Wallet.git
+   https://github.com/hatifar/Crypto-Wallet.git
    ```
 2. Open the project in RAD Studio.
 3. Compile and run the application.
